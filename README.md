@@ -25,4 +25,4 @@ Bu proje, harici bir kütüphane gerektirmez. Yalnızca **Python 3** kurulu olma
 
 3.  Uygulama sizden sırasıyla şifre uzunluğunu ve kullanılacak karakter türlerini (e/h) isteyecektir.
 
-## 📋 Örnek Kullanım
+
